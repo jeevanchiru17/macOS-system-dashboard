@@ -25,3 +25,38 @@ Clone this repo and run the script from your terminal:
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 sh dash.sh
+
+```
+📸 Sample Output
+
+🔧 System Info
+Hostname: Jeevans-MacBook-Air.local
+ProductName:		macOS
+ProductVersion:		15.5
+BuildVersion:		24F5053f
+
+⏳SYSTEM UPTIME
+17:42  up 1 day,  8:07, 3 users, load averages: 3.35 2.99 2.67
+
+⚙️ CPU Usage Info
+CPU usage: 11.45% user, 22.34% sys, 66.20% idle
+
+📡 Network Stats
+Networks: packets: 2884386/3519M in, 767774/126M out.
+
+🧠 Memory Stats:
+Free Memory         : 67 MB
+Active Memory       : 1509 MB
+...
+
+🤝 Contributing
+
+Pull requests are welcome! If you have ideas for improvements (like colors, battery info, or disk usage), feel free to open an issue or PR.
+
+📄 License
+
+MIT License
+
+---
+
+Let me know once you've picked a repo name so I can update the `git clone` URL for you too!
