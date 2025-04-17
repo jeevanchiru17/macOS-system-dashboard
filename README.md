@@ -1,4 +1,6 @@
-# 🖥️ macOS System Dashboard Script
+# 🖥️ macOS  System Dashboard Script
+
+project url: https://roadmap.sh/projects/server-stats
 
 A lightweight shell script that displays a snapshot of your macOS system’s status and performance in a clean, categorized format. Perfect for quick diagnostics or just geeking out over system stats!
 
@@ -24,7 +26,7 @@ Clone this repo and run the script from your terminal:
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
-sh dash.sh
+sh server-stats.sh
 
 ```
 📸 Sample Output
